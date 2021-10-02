@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Here some useful links:
+- 🔭 Node.JS Best practices https://github.com/goldbergyoni/nodebestpractices
+
+
 <!--
 **netkra/netkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
